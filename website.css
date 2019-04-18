@@ -1,0 +1,52 @@
+
+
+body {
+	    background-color: #FF1493;
+		
+     }
+	 *  {
+		 margin: 0;
+		 padding: 0;
+	 }
+	 a:hover{
+		 color:    #00004d;
+	 }
+	
+	
+@media only screen and (max-width: 500px){
+	 
+	 .wrapper{
+		 width: 50%;
+	 }
+	 
+	img {
+		width: 40%;
+		height: auto;
+		}
+	}
+
+@media only screen and (max-width: 800px){
+	 
+	 .wrapper{
+		 width: 100%;
+	 }
+	 
+	img {
+		width: 40%;
+		height: auto;
+		}
+	}
+	
+	@media only screen and (max-width: 1024px){
+	 
+	 .wrapper{
+		 width: 100%;
+	 }
+	 
+	img {
+		width: 40%;
+		height: auto;
+		}
+	}
+
+	 

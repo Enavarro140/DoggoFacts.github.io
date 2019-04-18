@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<link rel="stylesheet" href="website.css">
+      <title>Doggo Facts</title>
+	  <meta charset="utf-8">
+	  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+
+    
+ <header style= "text-align: center">
+    <img src="dogpaw.png" alt=" Dog Paw" height="200" width="200">
+ </header>
+   <h1 style= "text-align: center; font-size: 40px; font-family: Comic Sans MS;  color: #000000"> Doggo Facts  </h1>
+<p style= "text-align: center">
+ <input type ="text" name="text" class="search" placeholder= "Search Here" size="44">
+ <input type ="submit" name ="submit" class ="submit" value="Fetch!">
+ </p>
+ 
+ 
+ <p style= "text-align: center"> QuickLinks</p>
+ 
+ <p style= "text-align: center" >
+  <img src="beagledog.png" width="250" height="250"   alt="Beagle" />
+  <img src="Bulldog.png" width="250" height="250" alt="Bulldog" />
+  <img src="Chihuahua.png" width="250" height="250" alt="Chihuahua" />
+  <img  src="Golden.png"  width="250" height="250"  alt="Retriever"/>
+ </p>
+ 
+
+
+<hr> 
+<footer style="text-align: center">
+   <a href="mailo:enavarro@student"> Contact:enavarro@student.clatyon.edu </a>
+</footer>
+
+</body>
+</html>
